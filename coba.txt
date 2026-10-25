@@ -4,3 +4,4 @@ ini dibuat di branch edit2
 ini dibuat di branch edit1
 
 lihat network main
+lihat network tes1
